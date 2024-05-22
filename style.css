@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image:url(Amazon-Logo.jpg);
+    background-image:url(./images/Amazon-Logo.jpg);
     background-size:cover;
     height: 60px;
 }
@@ -144,7 +144,7 @@
 
 
 .herosection {
-    background-image: url(photo1.jpg);
+    background-image: url(./images/photo1.jpg);
     height: 300px;
     background-size: cover;
     display: flex;
